@@ -4,6 +4,6 @@ This project shows that bias exists in the news that Reddit users recieve. The m
 
 Included in this repository are:
 
-* **Project_2_Powerpoint.pdf** -- Powerpoint overview of the project
+* **Powerpoint.pdf** -- Powerpoint overview of the project
 * **Web_Scraper.ipynb** -- Notebook containing the web scraper used to obtain the data
 * **Clean_and_Regress.ipynb** -- Notebook containing the model and modeling process
